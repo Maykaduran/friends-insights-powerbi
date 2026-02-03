@@ -42,17 +42,10 @@ friends-insights-powerbi/
 ├── datasets_friends/ # Datasets utilizados
 ├── imagenes/ # Imagenes utilizadas para el dashboard
 └── README.md # Documentación del proyecto
-
-
----
-
-## 📷 Vista previa
-
-Imagenes/Captura de pantalla 2026-02-03 152827.png
 ---
 
 ## 👥 Equipo
-Proyecto realizado en grupo como parte de un trabajo académico.
+Proyecto realizado en grupo como parte de un trabajo académico entre María Gomez y Mayka Durán.
 
 ---
 
